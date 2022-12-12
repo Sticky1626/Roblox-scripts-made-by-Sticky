@@ -1,3 +1,5 @@
+--Made by karson/Sticky
+
 local ScreenGui = Instance.new("ScreenGui")
 local main = Instance.new("Frame")
 local title = Instance.new("TextLabel")
