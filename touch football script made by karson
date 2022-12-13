@@ -1,2 +1,2 @@
 -- Made by karson
-loadstring(game:HttpGet("https://pastebin.com/raw/kGpTxDGB"))s()
+loadstring(game:HttpGet("https://pastebin.com/raw/kGpTxDGB"))()
